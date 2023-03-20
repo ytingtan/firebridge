@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: montserrat, sans-serif;
+}
+
+header {
+    background-image:  linear-gradient(to right, #FE4880, #FFCE00);
+    box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.2);
+    padding: 15px;
+}
+
+header input {
+    display: inline-block;
+    color: #FFF;
+    font-size: 32px;
+    font-weight: 600;
+    font-style: italic;
+    text-transform: uppercase;
+    background: none;
+    outline: none;
+    border: none;
+    origin: none;
+}
