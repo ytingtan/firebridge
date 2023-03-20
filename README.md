@@ -1,8 +1,9 @@
 # FireBridge 
 
-This web application serves as a personal working space for me to experiment on various Front End tech stacks. This is not intended to be an official Orbital submission. 
+## README 
+https://drive.google.com/file/d/1TTiRo99MZOXgF8BtszdDmweDpKNNzN-o/view?usp=sharing
+ 
+## POSTER
+[Uploading 5105.png…]()
 
-Tech Stacks I have experimented with: 
-- HTML CSS JS
-- ReactJS
-- Bootstrap 
+## DEMO VIDEO
